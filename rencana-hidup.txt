@@ -2,10 +2,13 @@ makan
 minum
 ee
 tidur
+ ^mimpi basah
 hidup
 kaya
 nikah
+ ^cewe yali yali
 punya anak
+ ^4
 nikmatin harta 
 pokus surga
 mati
