@@ -2,9 +2,12 @@ makan
 minum
 ee
 tidur
+ ^mimpi basah
 hidup
 kaya
+ ^no1 di dunia
 nikah
+ ^cewe yali yali
 punya anak
 nikmatin harta 
 pokus surga
